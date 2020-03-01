@@ -1,0 +1,40 @@
+h1 {position: absolute;
+    left: 540px;
+    right: 541px;
+    top: 171px;
+    bottom: 465px;
+    
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 84px;
+    text-align: center;
+    
+    color: #FCB371;
+}
+
+p   {position: absolute;
+    width: 768px;
+    height: 190px;
+    left: 256px;
+    top: 301px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+body {background: url(2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+}
